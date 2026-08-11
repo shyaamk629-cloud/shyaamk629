@@ -28,9 +28,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/shyaam-k-a37212397?utm_source=share_via&utm_content=profile&utm_medium=member_android" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1CxDPnuDc7/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shyaamk629&show_icons=true&locale=en" alt="shyaamk629" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamk629&" alt="shyaamk629" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyaamk629&show_icons=true&locale=en&layout=compact" alt="shyaamk629" /></p>
 
 ## Featured Projects  
   <tr>
