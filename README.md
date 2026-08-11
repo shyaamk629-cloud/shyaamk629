@@ -34,8 +34,6 @@
     "COMMING SOON"
   </tr>
  
-##  DSA & Problem Solving Achievements
-
 ###  **1207+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
