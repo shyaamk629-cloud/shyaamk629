@@ -112,7 +112,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyaam/mahalakshmi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shyaam/shyaam/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
 </picture>
 
 </div>  
@@ -124,6 +123,7 @@
 <div align="center">
    
  <img src="https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
 
  </div>
 ---
@@ -162,6 +162,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shyaamk629&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shyaamk629-cloud&theme=tokyonight)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
