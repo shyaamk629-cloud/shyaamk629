@@ -15,7 +15,6 @@
 
 <div align="center">
 
- <h1>Hi 👋, I'm  Shyaam.K</h1>
 <p>  🎓 Student      🌱 Currently learning Full Stack Development        💻 Interested in game development & video editing </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -32,46 +31,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shyaamk629&show_icons=true&locale=en" alt="shyaamk629" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamk629&" alt="shyaamk629" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyaamk629&show_icons=true&locale=en&layout=compact" alt="shyaamk629" /></p>
-
-##  Technical Skills  
-
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Programming Languages</th>
-    <td>
-     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Frontend Development</th>
-    <td>
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend & Frameworks</th>
-    <td>
-        <img src="https://img.shields.io/badge/js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases & Tools</th>
-    <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ## Featured Projects  
   <tr>
