@@ -98,14 +98,6 @@
 
 <div align="center">
 
-## 📬 Let's Connect
-   📧 Email: kit28.24bcs316email@gmail.com
- 
-## Featured Projects  
-  <tr>
-    "COMMING SOON"
-  </tr>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CxDPnuDc7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyaam-k-a37212397?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit28.24bcs316@gmail.com) 
 
