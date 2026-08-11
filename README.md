@@ -20,16 +20,6 @@
     🌱 Currently learning Full Stack Development  
      💻 Interested in game development & video editing 
 
-### 🛠️ Skills
- HTML, CSS, JavaScript  
-  Python,
-   GitHub, 
-    Game Design,
-      Video Editing.
-      
-</div>  
-
-
 ##  Technical Skills  
 
 <table align="center" width="100%">
